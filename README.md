@@ -35,3 +35,8 @@ If you have to work with prices you always need to have economic data such a GDP
 * [Université Catholique de Louvain's disaster database](www.emdat.be)
 * https://data.oecd.org/
 * https://data.worldbank.org/
+
+
+### Data preprocessing Results 
+* [Economical indexes](https://github.com/irynakostyshyn/coffee-price-prediction/blob/master/data/data/clean_data.csv)
+* [Data for time series](https://github.com/irynakostyshyn/coffee-price-prediction/blob/master/data/data/data_for_renges.csv)
