@@ -22,7 +22,7 @@ If you have to work with prices you always need to have economic data such a GDP
 * GDP per capita - (current US)
 * Agricultural land - (% of land area)
 * Rural population
-* ICO - mounthly
+* ICO - monthly
 * Disaster
   - Geophysical(Volcanic activity, Mass movement(dry), Landslide, Earthquake); 
   - Climatological (Wildfire, Drought);
@@ -33,6 +33,7 @@ If you have to work with prices you always need to have economic data such a GDP
 ### Data sources :
 * [International Coffe Organization](www.ico.org)
 * [Université Catholique de Louvain's disaster database](www.emdat.be)
+* https://www.macrotrends.net
 * https://data.oecd.org/
 * https://data.worldbank.org/
 
